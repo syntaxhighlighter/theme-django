@@ -1,6 +1,6 @@
 {
   "name": "syntaxhighlighter-theme-django",
-  "version": "0.5.0",
+  "version": "4.0.0",
   "description": "Django theme for SyntaxHighlighter.",
   "keywords": [
     "syntaxhighlighter",
