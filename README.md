@@ -1,16 +1,12 @@
-# syntaxhighlighter-theme-django
+# syntaxhighlighter/theme-django
 
-Django theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter). This module only contains CSS.
+Django theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter). This module only contains CSS.
 
-[![Dependency status](https://david-dm.org/syntaxhighlighter/syntaxhighlighter-theme-django.svg)](https://david-dm.org/syntaxhighlighter/syntaxhighlighter-theme-django)
-[![devDependency Status](https://david-dm.org/syntaxhighlighter/syntaxhighlighter-theme-django/dev-status.svg)](https://david-dm.org/syntaxhighlighter/syntaxhighlighter-theme-django#info=devDependencies)
-[![Build Status](https://travis-ci.org/syntaxhighlighter/syntaxhighlighter-theme-django.svg)](https://travis-ci.org/syntaxhighlighter/syntaxhighlighter-theme-django)
-
-[![NPM](https://nodei.co/npm/syntaxhighlighter-theme-django.svg)](https://npmjs.org/package/syntaxhighlighter-theme-django)
+[![Build Status](https://travis-ci.org/alexgorbatchev/theme-django.svg)](https://travis-ci.org/alexgorbatchev/theme-django)
 
 ## Installation
 
-    npm install syntaxhighlighter-theme-django
+    npm install syntaxhighlighter/theme-django
 
 ## Testing
 
@@ -18,4 +14,4 @@ Django theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter/syntax
 
 ## License
 
-GPL & MIT
+MIT
