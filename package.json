@@ -1,5 +1,5 @@
 {
-  "name": "theme-django",
+  "name": "@alexgorbatchev/theme-django",
   "version": "4.0.0",
   "description": "Django theme for SyntaxHighlighter.",
   "keywords": [
