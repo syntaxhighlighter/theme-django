@@ -2,11 +2,11 @@
 
 Django theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter). This module only contains CSS.
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/theme-django.svg)](https://travis-ci.org/alexgorbatchev/theme-django)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/theme-django.svg)](https://travis-ci.org/syntaxhighlighter/theme-django)
 
 ## Installation
 
-    npm install syntaxhighlighter/theme-django
+    npm install @alexgorbatchev/theme-django
 
 ## Testing
 
